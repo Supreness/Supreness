@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Supreness
-- 👀 I’m working in @Bytedance
+- 👀 I’m working in @Tencent
 - 🌱 I’m currently learning
         Golang, Java
 - 💞️ I’m looking to find the secert of unversity
