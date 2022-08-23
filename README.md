@@ -4,7 +4,7 @@
         Golang, Java
 - 💞️ I’m looking to find the secert of unversity
 - 📫 How to reach me?
-        Wechat: jiashuai-fly
+        Wechat: chatWithJaz
 
 <!---
 Supreness/Supreness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
